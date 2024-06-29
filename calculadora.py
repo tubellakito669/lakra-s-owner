@@ -5,6 +5,7 @@ while True:
     print("2-RESTAR")
     print("3-MULTIPLICAR")
     print("4-DIVIDIR")
+    print("CAAMBIO DEL PROGRAMA INICIAL")
     x= input("Escribe tu elección")
     y=float(x)
 
